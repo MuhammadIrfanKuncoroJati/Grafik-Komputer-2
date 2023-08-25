@@ -1,4 +1,4 @@
 # GrafikKomputer2
-Nama : Muhammad Irfan Kuncoro Jati 
-Kelas : 3IA07 
-NPM : 50420861
+Tugas_GK2_Muhammad Irfan Kuncoro Jati_(50420861)_3IA07
+
+
